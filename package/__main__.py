@@ -1,4 +1,7 @@
 from package.app import main
 
-if __name__ == '__main__':
+def execute():
     main()
+
+if __name__ == '__main__':
+    execute()
